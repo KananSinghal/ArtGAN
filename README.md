@@ -3,7 +3,7 @@
 
 
 
-https://www.google.com/url?q=https://drive.google.com/file/d/1BPCPAM4C6JXNH5ysAGkFXE0gBa_s-n7C/view?usp%3Dsharing&sa=D&source=editors&ust=1774365521454230&usg=AOvVaw01MywtpTQW9xus1Tygjpn8
+[PDF](https://www.google.com/url?q=https://drive.google.com/file/d/1BPCPAM4C6JXNH5ysAGkFXE0gBa_s-n7C/view?usp%3Dsharing&sa=D&source=editors&ust=1774365521454230&usg=AOvVaw01MywtpTQW9xus1Tygjpn8)
 
 
 # ArtGAN
