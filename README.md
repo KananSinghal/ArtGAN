@@ -1,3 +1,11 @@
+[Jupyter](https://www.google.com/url?q=https://drive.google.com/file/d/1GuWEDUTcIQhq5fHw7CXdWQY__2x5BqBb/view?usp%3Dsharing&sa=D&source=editors&ust=1774365521454376&usg=AOvVaw2oDBZxdeO4R6joX6GUH7E3)
+
+
+
+
+https://www.google.com/url?q=https://drive.google.com/file/d/1BPCPAM4C6JXNH5ysAGkFXE0gBa_s-n7C/view?usp%3Dsharing&sa=D&source=editors&ust=1774365521454230&usg=AOvVaw01MywtpTQW9xus1Tygjpn8
+
+
 # ArtGAN
 
 # Multi-Task Learning for WikiArt Classification
